@@ -1,1 +1,3 @@
-/Users/michaellederhuber/.config/nvim/lua/ledi/init.lua
+require('ledi.remap')
+require('ledi.packer')
+require('ledi.set')

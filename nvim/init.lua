@@ -1,1 +1,1 @@
-init.lua
+require('ledi')
