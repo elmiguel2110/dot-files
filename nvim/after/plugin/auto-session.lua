@@ -1,0 +1,1 @@
+/Users/michaellederhuber/.config/nvim/after/plugin/auto-session.lua
